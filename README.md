@@ -2,7 +2,7 @@
 
 "Rest Countries API" it's a simple API that returns data about countries all over the globe. 
 
-This simple project is responsible for acquiring that data and displaying the countries as a paginated list, on which there's some main pieces of information about them.
+This simple project is responsible for acquiring that data and displaying the countries as a paginated list, on which there's some of the main pieces of information about them.
 
 It is also possible to search for the countries' names, filtering them as you like.
 
@@ -16,4 +16,14 @@ You can execute the project by opening the "index.html" file, which will open on
 
 ## Screenshots
 
+Initial results:
 
+![initial](images/initial-results.png)
+
+Search with results:
+
+![search](images/search-results.png)
+
+Search with no results:
+
+![no-results](images/no-results.png)
