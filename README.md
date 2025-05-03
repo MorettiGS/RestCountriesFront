@@ -1,4 +1,4 @@
-# Countries explorer (Rest Countries API Frontend)
+# Countries Explorer (Rest Countries API Frontend)
 
 "Rest Countries API" it's a simple API that returns data about countries all over the globe. 
 
