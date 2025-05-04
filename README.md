@@ -4,7 +4,7 @@
 
 This simple project is responsible for acquiring that data and displaying the countries as a paginated list, on which there's some of the main pieces of information about them.
 
-It is also possible to search for the countries' names, filtering them as you like.
+It is also possible to search for the countries' names, where the API will filter your results by a part of the countries' name as you like.
 
 ## Installation
 
