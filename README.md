@@ -1,4 +1,4 @@
-# Rest Countries Front-end
+# Countries Explorer (Rest Countries API Frontend)
 
 "Rest Countries API" it's a simple API that returns data about countries all over the globe. 
 
@@ -12,7 +12,7 @@ You can install the project by downloading the repository contents. There is a b
 
 ## Execution
 
-You can execute the project by opening the "index.html" file, which will open on your main browser.
+You can execute the project by clicking on the "index.html" file, which will open on your main browser right after.
 
 ## Screenshots
 
